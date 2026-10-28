@@ -1,0 +1,3 @@
+numpy>=1.26
+torch>=2.2
+# PCAP extraction also requires the native Wireshark/TShark executable (4.2+ recommended).
